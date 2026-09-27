@@ -2,8 +2,7 @@ from os import listdir
 from os.path import isfile, join
 from pygame import mixer as p
 import random as r
-playlist_dir='/home/gxman/Documents/code/mp3 player/music'
-#playlist_dir='/home/gxman/Music/shellbeats/school/'
+playlist_dir=#folder dir here
 songs=[]
 songs_preshuffle=[]
 
